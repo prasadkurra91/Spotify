@@ -1,0 +1,14 @@
+[
+    {
+        "title": "00 Love Hits",
+        "description": "Enjoy golden hits",
+        "coverimage":"Songs/pl1/cover.jpeg",
+        "url": ["/Songs/pl1/Chennai Express 01 - 1234 Get On The Dance Floor.mp3","/Songs/pl1/02 - Rekkalu [DoReGaMa].mp3"]
+    },
+    {
+        "title": "Get on the dance floor",
+        "description": "Put your dancing shoes on",
+        "coverimage":"Songs/pl2/cover.jpeg",
+        "url": ["/Songs/pl2/Sweety.mp3"]
+    }
+]
