@@ -3,12 +3,30 @@
         "title": "00 Love Hits",
         "description": "Enjoy golden hits",
         "coverimage":"Songs/pl1/cover.jpeg",
-        "url": ["/Songs/pl1/Chennai Express 01 - 1234 Get On The Dance Floor.mp3","/Songs/pl1/02 - Rekkalu [DoReGaMa].mp3"]
+        "url": ["/Songs/pl1/Chennai Express 01 - 1234 Get On The Dance Floor.mp3","/Songs/pl1/Chennai Express 06 - Chennai Express.mp3"]
     },
     {
         "title": "Get on the dance floor",
         "description": "Put your dancing shoes on",
         "coverimage":"Songs/pl2/cover.jpeg",
-        "url": ["/Songs/pl2/Sweety.mp3"]
+        "url": ["/Songs/pl2/Sweety.mp3","/Songs/pl2/Nammela.mp3","/Songs/pl2/Pimple Dimple.mp3"]
+    },
+    {
+        "title": "Trending Telugu songs",
+        "description": "Put your dancing shoes on",
+        "coverimage":"Songs/pl3/cover.jpeg",
+        "url": ["/Songs/pl3/Chilakamma.mp3"]
+    },
+    {
+        "title": "Current Movie Songs",
+        "description": "Put your dancing shoes on",
+        "coverimage":"Songs/pl4/cover.jpeg",
+        "url": ["/Songs/pl4/01 - You Are My Love Story [DoReGaMa].mp3","/Songs/pl4/02 - Rekkalu [DoReGaMa].mp3","/Songs/pl4/03 - Ammayilu Abbayilu [DoReGaMa].mp3","/Songs/pl4/04 - Current [DoReGaMa].mp3","/Songs/pl4/05 - Atu Nuvve Itu Nuvve [DoReGaMa].mp3"]
+    },
+    {
+        "title": "Trending Telugu songs",
+        "description": "Put your dancing shoes on",
+        "coverimage":"Songs/pl5/cover.jpeg",
+        "url": ["/Songs/pl5/Chakkani Bike Undi.mp3","/Songs/pl5/Julai.mp3","/Songs/pl5/Mee Intiki Mundhu.mp3"]
     }
 ]
